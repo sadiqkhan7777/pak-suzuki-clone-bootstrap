@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="clip-milestones">
+      <rect width="256" height="256"/>
+    </clipPath>
+  </defs>
+  <g id="milestones" clip-path="url(#clip-milestones)">
+    <g id="milestone" transform="translate(29)">
+      <g id="Group_2908" data-name="Group 2908" transform="translate(104.333 128)">
+        <path id="Path_12568" data-name="Path 12568" d="M44.5,76c-18.133,0-32-13.867-32-32s13.867-32,32-32,32,13.867,32,32S62.633,76,44.5,76Zm0-53.333A21.333,21.333,0,1,0,65.833,44,21.4,21.4,0,0,0,44.5,22.667Z" transform="translate(-12.5 -12)" fill="#f92524"/>
+      </g>
+      <g id="Group_2909" data-name="Group 2909" transform="translate(77.667 202.667)">
+        <path id="Path_12569" data-name="Path 12569" d="M122,72.333A5.039,5.039,0,0,1,116.667,67V45.667a16.4,16.4,0,0,0-16-16h-64a16.4,16.4,0,0,0-16,16V67a5.039,5.039,0,0,1-5.333,5.333A5.039,5.039,0,0,1,10,67V45.667A26.408,26.408,0,0,1,36.667,19h64a26.408,26.408,0,0,1,26.667,26.667V67A5.039,5.039,0,0,1,122,72.333Z" transform="translate(-10 -19)" fill="#f92524"/>
+      </g>
+      <g id="Group_2910" data-name="Group 2910" transform="translate(3)">
+        <path id="Path_12570" data-name="Path 12570" d="M8.333,256A5.039,5.039,0,0,1,3,250.667V5.333A5.039,5.039,0,0,1,8.333,0a5.039,5.039,0,0,1,5.333,5.333V250.667A5.039,5.039,0,0,1,8.333,256Z" transform="translate(-3)" fill="#f92524"/>
+      </g>
+      <g id="Group_2911" data-name="Group 2911" transform="translate(3)">
+        <path id="Path_12571" data-name="Path 12571" d="M147,106.667H8.333A5.039,5.039,0,0,1,3,101.333v-96A5.039,5.039,0,0,1,8.333,0H147c2.133,0,4.267,1.067,4.267,3.2s1.067,4.267,0,5.333L121.4,53.333l29.867,44.8c1.067,2.133,1.067,4.267,0,5.333S149.133,106.667,147,106.667ZM13.667,96H137.4L110.733,56.533a6.8,6.8,0,0,1,0-6.4L137.4,10.667H13.667Z" transform="translate(-3)" fill="#f92524"/>
+      </g>
+    </g>
+  </g>
+</svg>

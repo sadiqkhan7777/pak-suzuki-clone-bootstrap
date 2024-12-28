@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="clip-vision_mission">
+      <rect width="256" height="256"/>
+    </clipPath>
+  </defs>
+  <g id="vision_mission" data-name="vision&amp;mission" clip-path="url(#clip-vision_mission)">
+    <g id="Icon_feather-flag" data-name="Icon feather-flag" transform="translate(24.299 2.374)">
+      <path id="Path_12617" data-name="Path 12617" d="M6,162.414s12.263-12.263,49.051-12.263,61.313,24.525,98.1,24.525S202.2,162.414,202.2,162.414V15.263S189.94,27.525,153.152,27.525,91.839,3,55.051,3,6,15.263,6,15.263Z" transform="translate(0 0)" fill="none" stroke="#f92524" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      <path id="Path_12618" data-name="Path 12618" d="M6,108.339V22.5" transform="translate(0 139.914)" fill="none" stroke="#f92524" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+    </g>
+  </g>
+</svg>

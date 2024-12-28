@@ -1,0 +1,140 @@
+.card {
+  margin: 50px;
+}
+body {
+  background-color: #ffffff;
+}
+.containercard {
+  display: flex;
+}
+
+.navbar-brand {
+  margin: 4px;
+}
+.nav-link:hover {
+  color: #025ba9;
+}
+.nav-link {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+.navbar-nav {
+  padding: 20px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container-fluid {
+  display: flex;
+  justify-content: space-between;
+}
+.heading {
+  text-align: center;
+  font-size: 24px;
+  line-height: 28.8px;
+  color: #00344d;
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.herocertified {
+  background-color: #00344d;
+  text-align: center;
+  color: #ffffff;
+
+  padding: 50px;
+}
+.corporate {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.para {
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+/* Top navbar code  */
+
+.navbar .social-icons a i,
+.navbar .menu a i {
+  color: #212529; /* Icon color */
+  font-size: 14px; /* Adjust icon size if needed */
+}
+
+.navbar .menu a {
+  color: #212529; /* Text color for menu links */
+  text-decoration: none;
+  margin-right: 15px;
+  font-size: 14px;
+}
+
+.navbar .social-icons a {
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+.navbar .social-icons a:hover i,
+.navbar .menu a:hover {
+  color: #d3d0e4; /* Hover effect */
+}
+
+.navbar-nav ul li a {
+  display: flex;
+  text-align: end;
+}
+
+/* Navbar Styling  sencond */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  background-color: #efefef; /* Navbar background color */
+  font-family: "Arial", sans-serif;
+}
+
+/* current promotions code start */
+#current {
+  color: #025ba9;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.blinking {
+  animation: blink 1s step-start infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+/* current promotions code end */
+
+footer {
+  background: #00344d;
+}
+
+/* Style for the Vision image */
+.right-img {
+    float: right;
+    margin-left: 20px; /* Space between text and the image */
+    max-width: 50%; /* Adjust image size */
+    border-radius: 8px; /* Optional: Adds rounded corners */
+  }
+  
+  /* Style for the Mission image */
+  .left-img {
+    float: left;
+    margin-right: 20px; /* Space between text and the image */
+    max-width: 50%; /* Adjust image size */
+    border-radius: 8px; /* Optional: Adds rounded corners */
+  }
+  
+  /* Clear floats after each section */
+  .content-section::after {
+    content: "";
+    display: table;
+    clear: both;
+  }

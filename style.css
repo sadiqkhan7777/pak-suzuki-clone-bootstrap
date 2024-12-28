@@ -1,0 +1,296 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar Styling */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: #efefef; /* Navbar background color */
+    font-family: 'Arial', sans-serif;
+}
+
+#current {
+    color: #025ba9;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.blinking {
+    animation: blink 1s step-start infinite;
+  }
+
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  } 
+
+
+.navbar .social-icons a i,
+.navbar .menu a i {
+    color: #212529; /* Icon color */
+    font-size: 14px; /* Adjust icon size if needed */
+}
+
+.navbar .menu a {
+    color: #212529; /* Text color for menu links */
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 14px;
+}
+
+.navbar .social-icons a {
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+.navbar .social-icons a:hover i,
+.navbar .menu a:hover {
+    color: #d3d0e4; /* Hover effect */
+}
+
+.navbar-nav ul li a {
+    display: flex;
+    text-align: end;
+}
+
+.copyrightpak{
+    height: 24px;
+    fill: #00344d;
+    gap: 57px;
+}
+
+#copy1, #copy2, #copy3, #copy4{
+    height: 14px;
+    font-size: 14px;
+}
+
+.cardcontainer {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin: 50px;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: fill;
+}
+
+.card-body {
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+
+section p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+#copyright {
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    gap: 13px;
+    margin-left: 40px;
+
+  }
+
+.corporate {
+    text-align: left;
+}
+
+
+
+#copyright a {
+    text-decoration: none;
+}
+
+#corporate a{
+    text-decoration: none;
+}
+
+#copy1, 
+#copy2,
+#copy3,
+#copy4{
+    color: #ffffff;
+    height: 14px;
+    font-size: 14px;
+    letter-spacing: normal;
+    
+}
+
+#dealership-section {
+    display: flex;
+    justify-content: flex-end;
+    /* margin-top: 20px; */
+  }
+  
+  #dealership-section img {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+  }
+
+  /* Value for Money Section */
+  .value-for-money {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+    max-width: 60%;
+  }
+
+  .value-for-money img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Dealership Section */
+  .dealership {
+    text-align: center;
+    max-width: 35%;
+  }
+
+  .dealership img {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+.linp-up h2 {
+    font-size: 20px;
+}
+
+.copyrightpak {
+    text-align: left;
+    font-size: 14px;
+    /* height: 24px; */
+    /* width: 141px; */
+
+}
+
+.corporate{
+    margin-left: 0 ;
+}
+
+.corporate a,
+.suzukiprod a,
+.suzuki-pak a,
+.help-sec a{
+    text-decoration: none;
+}
+
+footer{
+    background: #00344d;
+}
+
+.copyclass {
+    margin-bottom: 9.5px;
+    font-size: 14px;
+}
+  
+  .footer-links a {
+    text-decoration: none;
+  }
+  
+  .footer-links a:hover {
+    color: #ffcc00; /* Add hover color for links */
+  }
+  
+  .footer-links .mx-2 {
+    margin: 0 10px;
+  }
+
+  .ico-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 1200px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 20px 0;
+  }
+  
+  .ico-container div {
+    text-align: center;
+    flex: 1;
+  }
+  
+  .ico-container div img {
+    display: block;
+    margin: 0 auto;
+    width: 28px; /* Adjust icon size as needed */
+    height: auto;
+    gap: 57px;
+  }
+  
+  .ico-container div p {
+    margin-top: 10px;
+    justify-content: space-between;
+    font-size: 14px;
+    font-weight: bold;
+    color: #00234f; /* Dark blue */
+  }
+
+.navbar-collapse ul li a {
+    font-size: 15px;
+    height: 40px;
+    /* padding: 1px 10px; */
+}
+
+.customer-care {
+  background-color: #025ba9;
+  color: white;
+  justify-content: center;
+  text-align: center;
+}
+
+.customer-care p {
+    justify-content: center;
+    text-align: center;
+}
+
+.customer-care h2 {
+  font-weight: 700;
+  font-family: sans-serif;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+

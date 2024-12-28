@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="35" viewBox="0 0 50 35">
+  <defs>
+    <clipPath id="clip-showroom_4">
+      <rect width="50" height="35"/>
+    </clipPath>
+  </defs>
+  <g id="showroom_4" data-name="showroom – 4" clip-path="url(#clip-showroom_4)">
+    <line id="Line_159" data-name="Line 159" x1="0.003" y2="20.261" transform="translate(13.062 10.395)" fill="none" stroke="#00344d" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_161" data-name="Line 161" x2="0.376" y2="14.589" transform="translate(31.457 16.101)" fill="none" stroke="#00344d" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="Path_13012" data-name="Path 13012" d="M-4228.665-59.574l14.111-3.093,4.074,1.455v3.6l-3.784-1.114-14.4,2Z" transform="translate(4260.479 80.791)" fill="none" stroke="#00344d" stroke-width="1.5"/>
+    <path id="Subtraction_21" data-name="Subtraction 21" d="M0,17.386H0V15.131L12.876,0,41.827,11.348l.185,2.747-1.087.231-28.4-8.868Z" transform="translate(0.462 4.739)" fill="none" stroke="#00344d" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_160" data-name="Line 160" y2="8.476" transform="translate(46.236 22.179)" fill="none" stroke="#002b40" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="Path_13013" data-name="Path 13013" d="M3.239,0V10.713" transform="translate(-2.908 19.977)" fill="none" stroke="#00344d" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>
